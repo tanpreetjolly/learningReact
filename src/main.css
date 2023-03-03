@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.header{
+  text-align: center;
+  font-size: 2rem;
+  background-color: darkmagenta;
+  color: white;
+  text-shadow: 1px 1.5px black;
+  padding: 1rem;
+  outline: 2px solid yellow;
+}
+
+.nav ul{
+  padding: 0.5rem 2rem;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
